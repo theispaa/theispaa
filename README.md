@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a>Data Scientist, Data Analyst</a></h1>
+<h1>Hi, I'm Theis! <br/><a>Data Scientist, Data Analyst</a></h1>
 
 <h2>👨‍💻 Different Projects:</h2>
 
